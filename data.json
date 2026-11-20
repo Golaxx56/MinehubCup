@@ -1,9 +1,14 @@
 {
   "scores": [
     {
-      "board": "parkour",
+      "board": "pacer",
       "name": "Golaax",
-      "points": 100
+      "points": 125
+    },
+    {
+      "board": "pacer",
+      "name": "CrisRC",
+      "points": 115
     }
   ]
 }
