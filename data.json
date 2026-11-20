@@ -1,3 +1,9 @@
 {
-  "scores": []
+  "scores": [
+    {
+      "board": "parkour",
+      "name": "Golaax",
+      "points": 100
+    }
+  ]
 }
