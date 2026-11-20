@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Minehub Cup · Editor</title>
+<meta name="robots" content="noindex">
+<link rel="icon" href="logo-m.png">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Silkscreen:wght@400;700&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body data-admin="1">
+<div class="wrap">
+  <header>
+    <img id="logoM" src="logo-m.png" alt="Minehub">
+    <img id="logoWord" src="logo-minehub.png" alt="Minehub">
+    <span class="cup">Cup</span>
+  </header>
+  <nav class="tabs" id="tabs" role="tablist" aria-label="Clasificaciones"></nav>
+  <section class="board" id="board" aria-live="polite"></section>
+  <section class="admin" id="admin">
+    <h3>Panel de puntos <span class="badge">Solo editor</span></h3>
+    <div class="tools">
+      <button class="save" type="button" id="download">Descargar data.json</button>
+      <label class="filebtn">Abrir data.json<input type="file" id="openfile" accept=".json,application/json"></label>
+    </div>
+    <form class="form" id="form" autocomplete="off">
+      <label>Nombre de Minecraft
+        <input id="nick" maxlength="16" placeholder="Ej: Notch" required>
+      </label>
+      <label>Puntos
+        <input id="points" type="number" min="0" value="100" required>
+      </label>
+      <label>Clasificación
+        <select id="boardSel"></select>
+      </label>
+      <button class="save" type="submit">Guardar</button>
+      <div class="preview"><span id="prevSlot"></span><span id="prevTxt">Escribe un nombre para ver su skin</span></div>
+    </form>
+    <div class="msg" id="msg">Cambia puntos aquí o directamente en la tabla. Cuando termines, descarga data.json y súbelo a GitHub.</div>
+  </section>
+</div>
+<script src="app.js"></script>
+</body>
+</html>
