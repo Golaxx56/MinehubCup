@@ -1,14 +1,3 @@
 {
-  "scores": [
-    {
-      "board": "pacer",
-      "name": "Golaax",
-      "points": 67
-    },
-    {
-      "board": "pacer",
-      "name": "CrisRC",
-      "points": 56
-    }
-  ]
+  "scores": []
 }
