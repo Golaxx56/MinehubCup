@@ -1,3 +1,844 @@
 {
-  "scores": []
+  "scores": [
+    {
+      "board": "mob",
+      "name": "justninix_",
+      "points": 0
+    },
+    {
+      "board": "mob",
+      "name": "wbotto",
+      "points": 0
+    },
+    {
+      "board": "mob",
+      "name": "Golaax",
+      "points": 0
+    },
+    {
+      "board": "mob",
+      "name": "CrisRC",
+      "points": 0
+    },
+    {
+      "board": "mob",
+      "name": "LexDay4449",
+      "points": 0
+    },
+    {
+      "board": "mob",
+      "name": "yTaakeru",
+      "points": 0
+    },
+    {
+      "board": "mob",
+      "name": "takehighdontdie",
+      "points": 0
+    },
+    {
+      "board": "mob",
+      "name": "zTiick_",
+      "points": 0
+    },
+    {
+      "board": "mob",
+      "name": "crystAxolYT",
+      "points": 0
+    },
+    {
+      "board": "mob",
+      "name": "skys0lerx",
+      "points": 0
+    },
+    {
+      "board": "mob",
+      "name": "bafe_",
+      "points": 0
+    },
+    {
+      "board": "mob",
+      "name": "lukiyahu",
+      "points": 0
+    },
+    {
+      "board": "mob",
+      "name": "Benromar16",
+      "points": 0
+    },
+    {
+      "board": "mob",
+      "name": "Nabzn",
+      "points": 0
+    },
+    {
+      "board": "mob",
+      "name": "luisit7800",
+      "points": 0
+    },
+    {
+      "board": "mob",
+      "name": "Koovak",
+      "points": 0
+    },
+    {
+      "board": "mob",
+      "name": "Reddboy",
+      "points": 0
+    },
+    {
+      "board": "mob",
+      "name": "clooud2",
+      "points": 0
+    },
+    {
+      "board": "mob",
+      "name": "derekdrak",
+      "points": 0
+    },
+    {
+      "board": "mob",
+      "name": "Ignorital72",
+      "points": 0
+    },
+    {
+      "board": "mob",
+      "name": "martucarp",
+      "points": 0
+    },
+    {
+      "board": "mob",
+      "name": "Tiptx",
+      "points": 0
+    },
+    {
+      "board": "mob",
+      "name": "urhyvirgolop",
+      "points": 0
+    },
+    {
+      "board": "mob",
+      "name": "704Seventy",
+      "points": 0
+    },
+    {
+      "board": "mosaic",
+      "name": "justninix_",
+      "points": 0
+    },
+    {
+      "board": "mosaic",
+      "name": "wbotto",
+      "points": 0
+    },
+    {
+      "board": "mosaic",
+      "name": "CrisRC",
+      "points": 0
+    },
+    {
+      "board": "mosaic",
+      "name": "LexDay4449",
+      "points": 0
+    },
+    {
+      "board": "mosaic",
+      "name": "yTaakeru",
+      "points": 0
+    },
+    {
+      "board": "mosaic",
+      "name": "takehighdontdie",
+      "points": 0
+    },
+    {
+      "board": "mosaic",
+      "name": "zTiick_",
+      "points": 0
+    },
+    {
+      "board": "mosaic",
+      "name": "CrystAxolYt",
+      "points": 0
+    },
+    {
+      "board": "mosaic",
+      "name": "skys0lerx",
+      "points": 0
+    },
+    {
+      "board": "mosaic",
+      "name": "bafe_",
+      "points": 0
+    },
+    {
+      "board": "mosaic",
+      "name": "lukiyahu",
+      "points": 0
+    },
+    {
+      "board": "mosaic",
+      "name": "Benromar16",
+      "points": 0
+    },
+    {
+      "board": "mosaic",
+      "name": "Nabzn",
+      "points": 0
+    },
+    {
+      "board": "mosaic",
+      "name": "luisit7800",
+      "points": 0
+    },
+    {
+      "board": "mosaic",
+      "name": "Koovak",
+      "points": 0
+    },
+    {
+      "board": "mosaic",
+      "name": "Reddboy",
+      "points": 0
+    },
+    {
+      "board": "mosaic",
+      "name": "clooud2",
+      "points": 0
+    },
+    {
+      "board": "mosaic",
+      "name": "derekdrak",
+      "points": 0
+    },
+    {
+      "board": "mosaic",
+      "name": "Ignorital72",
+      "points": 0
+    },
+    {
+      "board": "mosaic",
+      "name": "martucarp",
+      "points": 0
+    },
+    {
+      "board": "mosaic",
+      "name": "Tiptx",
+      "points": 0
+    },
+    {
+      "board": "mosaic",
+      "name": "urhyvirgolop",
+      "points": 0
+    },
+    {
+      "board": "mosaic",
+      "name": "Golaax",
+      "points": 0
+    },
+    {
+      "board": "mosaic",
+      "name": "704Seventy",
+      "points": 0
+    },
+    {
+      "board": "oneshot",
+      "name": "justninix_",
+      "points": 0
+    },
+    {
+      "board": "oneshot",
+      "name": "wbotto",
+      "points": 0
+    },
+    {
+      "board": "oneshot",
+      "name": "Golaax",
+      "points": 0
+    },
+    {
+      "board": "oneshot",
+      "name": "CrisRC",
+      "points": 0
+    },
+    {
+      "board": "oneshot",
+      "name": "LexDay4449",
+      "points": 0
+    },
+    {
+      "board": "oneshot",
+      "name": "yTaakeru",
+      "points": 0
+    },
+    {
+      "board": "oneshot",
+      "name": "takehighdontdie",
+      "points": 0
+    },
+    {
+      "board": "oneshot",
+      "name": "zTiick_",
+      "points": 0
+    },
+    {
+      "board": "oneshot",
+      "name": "CrystAxolYt",
+      "points": 0
+    },
+    {
+      "board": "oneshot",
+      "name": "skys0lerx",
+      "points": 0
+    },
+    {
+      "board": "oneshot",
+      "name": "bafe_",
+      "points": 0
+    },
+    {
+      "board": "oneshot",
+      "name": "lukiyahu",
+      "points": 0
+    },
+    {
+      "board": "oneshot",
+      "name": "Benromar16",
+      "points": 0
+    },
+    {
+      "board": "oneshot",
+      "name": "Nabzn",
+      "points": 0
+    },
+    {
+      "board": "oneshot",
+      "name": "luisit7800",
+      "points": 0
+    },
+    {
+      "board": "oneshot",
+      "name": "Koovak",
+      "points": 0
+    },
+    {
+      "board": "oneshot",
+      "name": "Reddboy",
+      "points": 0
+    },
+    {
+      "board": "oneshot",
+      "name": "clooud2",
+      "points": 0
+    },
+    {
+      "board": "oneshot",
+      "name": "derekdrak",
+      "points": 0
+    },
+    {
+      "board": "oneshot",
+      "name": "Ignorital72",
+      "points": 0
+    },
+    {
+      "board": "oneshot",
+      "name": "martucarp",
+      "points": 0
+    },
+    {
+      "board": "oneshot",
+      "name": "Tiptx",
+      "points": 0
+    },
+    {
+      "board": "oneshot",
+      "name": "urhyvirgolop",
+      "points": 0
+    },
+    {
+      "board": "oneshot",
+      "name": "704Seventy",
+      "points": 0
+    },
+    {
+      "board": "pacer",
+      "name": "justninix_",
+      "points": 0
+    },
+    {
+      "board": "pacer",
+      "name": "wbotto",
+      "points": 0
+    },
+    {
+      "board": "pacer",
+      "name": "Golaax",
+      "points": 0
+    },
+    {
+      "board": "pacer",
+      "name": "CrisRC",
+      "points": 0
+    },
+    {
+      "board": "pacer",
+      "name": "Lexday4449",
+      "points": 0
+    },
+    {
+      "board": "pacer",
+      "name": "yTaakeru",
+      "points": 0
+    },
+    {
+      "board": "pacer",
+      "name": "takehighdontdie",
+      "points": 0
+    },
+    {
+      "board": "pacer",
+      "name": "zTiick_",
+      "points": 0
+    },
+    {
+      "board": "pacer",
+      "name": "CrystAxolYt",
+      "points": 0
+    },
+    {
+      "board": "pacer",
+      "name": "skys0lerx",
+      "points": 0
+    },
+    {
+      "board": "pacer",
+      "name": "bafe_",
+      "points": 0
+    },
+    {
+      "board": "pacer",
+      "name": "lukiyahu",
+      "points": 0
+    },
+    {
+      "board": "pacer",
+      "name": "Benromar16",
+      "points": 0
+    },
+    {
+      "board": "pacer",
+      "name": "Nabzn",
+      "points": 0
+    },
+    {
+      "board": "pacer",
+      "name": "luisit7800",
+      "points": 0
+    },
+    {
+      "board": "pacer",
+      "name": "Koovak",
+      "points": 0
+    },
+    {
+      "board": "pacer",
+      "name": "Reddboy",
+      "points": 0
+    },
+    {
+      "board": "pacer",
+      "name": "clooud2",
+      "points": 0
+    },
+    {
+      "board": "pacer",
+      "name": "derekdrak",
+      "points": 0
+    },
+    {
+      "board": "pacer",
+      "name": "Ignorital72",
+      "points": 0
+    },
+    {
+      "board": "pacer",
+      "name": "martucarp",
+      "points": 0
+    },
+    {
+      "board": "pacer",
+      "name": "Tiptx",
+      "points": 0
+    },
+    {
+      "board": "pacer",
+      "name": "urhyvirgolop",
+      "points": 0
+    },
+    {
+      "board": "pacer",
+      "name": "704Seventy",
+      "points": 0
+    },
+    {
+      "board": "parkour",
+      "name": "wbotto",
+      "points": 0
+    },
+    {
+      "board": "parkour",
+      "name": "Golaax",
+      "points": 0
+    },
+    {
+      "board": "parkour",
+      "name": "CrisRC",
+      "points": 0
+    },
+    {
+      "board": "parkour",
+      "name": "LexDay4449",
+      "points": 0
+    },
+    {
+      "board": "parkour",
+      "name": "yTaakeru",
+      "points": 0
+    },
+    {
+      "board": "parkour",
+      "name": "takehighdontdie",
+      "points": 0
+    },
+    {
+      "board": "parkour",
+      "name": "zTiick_",
+      "points": 0
+    },
+    {
+      "board": "parkour",
+      "name": "crystAxolYT",
+      "points": 0
+    },
+    {
+      "board": "parkour",
+      "name": "skys0lerx",
+      "points": 0
+    },
+    {
+      "board": "parkour",
+      "name": "bafe_",
+      "points": 0
+    },
+    {
+      "board": "parkour",
+      "name": "lukiyahu",
+      "points": 0
+    },
+    {
+      "board": "parkour",
+      "name": "Benromar16",
+      "points": 0
+    },
+    {
+      "board": "parkour",
+      "name": "Nabzn",
+      "points": 0
+    },
+    {
+      "board": "parkour",
+      "name": "luisit7800",
+      "points": 0
+    },
+    {
+      "board": "parkour",
+      "name": "Koovak",
+      "points": 0
+    },
+    {
+      "board": "parkour",
+      "name": "Reddboy",
+      "points": 0
+    },
+    {
+      "board": "parkour",
+      "name": "clooud2",
+      "points": 0
+    },
+    {
+      "board": "parkour",
+      "name": "derekdrak",
+      "points": 0
+    },
+    {
+      "board": "parkour",
+      "name": "Ignorital72",
+      "points": 0
+    },
+    {
+      "board": "parkour",
+      "name": "martucarp",
+      "points": 0
+    },
+    {
+      "board": "parkour",
+      "name": "urhyvirgolop",
+      "points": 0
+    },
+    {
+      "board": "parkour",
+      "name": "justninix_",
+      "points": 0
+    },
+    {
+      "board": "parkour",
+      "name": "Tiptx",
+      "points": 0
+    },
+    {
+      "board": "parkour",
+      "name": "704Seventy",
+      "points": 0
+    },
+    {
+      "board": "spleef",
+      "name": "justninix_",
+      "points": 0
+    },
+    {
+      "board": "spleef",
+      "name": "wbotto",
+      "points": 0
+    },
+    {
+      "board": "spleef",
+      "name": "Golaax",
+      "points": 0
+    },
+    {
+      "board": "spleef",
+      "name": "CrisRC",
+      "points": 0
+    },
+    {
+      "board": "spleef",
+      "name": "LexDay4449",
+      "points": 0
+    },
+    {
+      "board": "spleef",
+      "name": "yTaakeru",
+      "points": 0
+    },
+    {
+      "board": "spleef",
+      "name": "takehighdontdie",
+      "points": 0
+    },
+    {
+      "board": "spleef",
+      "name": "zTiick_",
+      "points": 0
+    },
+    {
+      "board": "spleef",
+      "name": "CrystAxolyt",
+      "points": 0
+    },
+    {
+      "board": "spleef",
+      "name": "skys0lerx",
+      "points": 0
+    },
+    {
+      "board": "spleef",
+      "name": "bafe_",
+      "points": 0
+    },
+    {
+      "board": "spleef",
+      "name": "lukiyahu",
+      "points": 0
+    },
+    {
+      "board": "spleef",
+      "name": "Benromar16",
+      "points": 0
+    },
+    {
+      "board": "spleef",
+      "name": "Nabzn",
+      "points": 0
+    },
+    {
+      "board": "spleef",
+      "name": "luisit7800",
+      "points": 0
+    },
+    {
+      "board": "spleef",
+      "name": "Koovak",
+      "points": 0
+    },
+    {
+      "board": "spleef",
+      "name": "Reddboy",
+      "points": 0
+    },
+    {
+      "board": "spleef",
+      "name": "clooud2",
+      "points": 0
+    },
+    {
+      "board": "spleef",
+      "name": "derekdrak",
+      "points": 0
+    },
+    {
+      "board": "spleef",
+      "name": "Ignorital72",
+      "points": 0
+    },
+    {
+      "board": "spleef",
+      "name": "martucarp",
+      "points": 0
+    },
+    {
+      "board": "spleef",
+      "name": "urhyvirgolop",
+      "points": 0
+    },
+    {
+      "board": "spleef",
+      "name": "Tiptx",
+      "points": 0
+    },
+    {
+      "board": "spleef",
+      "name": "704Seventy",
+      "points": 0
+    },
+    {
+      "board": "survival",
+      "name": "justninix_",
+      "points": 0
+    },
+    {
+      "board": "survival",
+      "name": "wbotto",
+      "points": 0
+    },
+    {
+      "board": "survival",
+      "name": "Golaax",
+      "points": 0
+    },
+    {
+      "board": "survival",
+      "name": "CrisRC",
+      "points": 0
+    },
+    {
+      "board": "survival",
+      "name": "LexDay4449",
+      "points": 0
+    },
+    {
+      "board": "survival",
+      "name": "yTaakeru",
+      "points": 0
+    },
+    {
+      "board": "survival",
+      "name": "takehighdontdie",
+      "points": 0
+    },
+    {
+      "board": "survival",
+      "name": "zTiick_",
+      "points": 0
+    },
+    {
+      "board": "survival",
+      "name": "CrystAxolyt",
+      "points": 0
+    },
+    {
+      "board": "survival",
+      "name": "skys0lerx",
+      "points": 0
+    },
+    {
+      "board": "survival",
+      "name": "bafe_",
+      "points": 0
+    },
+    {
+      "board": "survival",
+      "name": "lukiyahu",
+      "points": 0
+    },
+    {
+      "board": "survival",
+      "name": "Benromar16",
+      "points": 0
+    },
+    {
+      "board": "survival",
+      "name": "Nabzn",
+      "points": 0
+    },
+    {
+      "board": "survival",
+      "name": "luisit7800",
+      "points": 0
+    },
+    {
+      "board": "survival",
+      "name": "Koovak",
+      "points": 0
+    },
+    {
+      "board": "survival",
+      "name": "Reddboy",
+      "points": 0
+    },
+    {
+      "board": "survival",
+      "name": "clooud2",
+      "points": 0
+    },
+    {
+      "board": "survival",
+      "name": "derekdrak",
+      "points": 0
+    },
+    {
+      "board": "survival",
+      "name": "Ignorital72",
+      "points": 0
+    },
+    {
+      "board": "survival",
+      "name": "martucarp",
+      "points": 0
+    },
+    {
+      "board": "survival",
+      "name": "Tiptx",
+      "points": 0
+    },
+    {
+      "board": "survival",
+      "name": "urhyvirgolop",
+      "points": 0
+    },
+    {
+      "board": "survival",
+      "name": "704Seventy",
+      "points": 0
+    }
+  ]
 }
